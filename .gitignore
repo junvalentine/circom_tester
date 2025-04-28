@@ -63,3 +63,7 @@ typings/
 tmp
 
 .DS_Store
+
+.env
+test/**/*.r1cs
+test/**/*.sym
